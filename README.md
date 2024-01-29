@@ -1,9 +1,10 @@
 <!-- Hey there! I'm Brajesh, a tech enthusiast from Bihar, India. ð -->
 
+
 ### ð¨âð» About Me
 
 - ð± Learning and exploring in the realms of IT, networking, and civil engineering.
-- ð­ Currently busy preparing for exams .
+- ð­ Currently preparing for exams.
 - ð¤ Always curious about new technologies and open source.
 
 ### ð Skills & Tools
