@@ -27,14 +27,16 @@
 <!--
 **Brajesh3/Brajesh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there! ð
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Brajesh, a passionate learner and tech enthusiast from Bihar, India.
+
+## ð Learning
+
+Always exploring new things! Currently delving into [C, Python].
+
+## ð« Connect with Me
+
+- LinkedIn: [https://www.linkedin.com/in/brajesh-kumar-056b75277?trk=contact-info]
+
+Feel free to reach out for collaboration or just to chat about tech and learning!
