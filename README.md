@@ -1,5 +1,7 @@
-<!-- Hey there! I'm Brajesh, a tech enthusiast from Bihar, India. -->
+### Github Statistic
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=brajesh3&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/brajesh3)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brajesh3&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5)](https://github.com/brajesh3)
 
 ### About Me
 
