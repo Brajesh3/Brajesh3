@@ -26,4 +26,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brajesh-kumar-056b75277?trk=contact-info)
 
+#### Profile Views
+[![Hits](https://hits.sh/github.com/brajesh3/brajesh3.svg?style=for-the-badge&label=Views&color=54856b)](https://hits.sh/github.com/brajesh3/brajesh3/)
+
 ### Jai Shree Ram
