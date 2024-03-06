@@ -25,8 +25,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brajesh-kumar-056b75277?trk=contact-info)
 
-#### Profile Views
+#### Profile Views (today/total)
 
-[![Hits](https://hits.sh/github.com/brajesh3/brajesh3.svg?style=for-the-badge&label=Views&color=54856b)](https://hits.sh/github.com/brajesh3/brajesh3/)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### Jai Shree Ram
