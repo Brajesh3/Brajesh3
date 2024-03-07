@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brajesh
+Hi ![hand_guesture](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brajesh
 ===============================================================================================================================
 
 Web Developer & learner
@@ -9,8 +9,11 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 * 🌍  I'm based in India
 * 🧠  I'm learning Web Development
 
-<a href="https://www.github.com/Brajesh3" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Brajesh3?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
+<a href="https://www.github.com/Brajesh3" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/Brajesh3?logo=github&style=for-the-badge&color=facc15&labelColor=000000"
+    alt="Brajesh3's GitHub followers"
+  />
+</a>
 
 ### Skills & Tools
 
@@ -23,16 +26,26 @@ src="https://img.shields.io/github/followers/Brajesh3?logo=github&style=for-the-
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/Brajesh3"><img src="https://github-readme-stats.vercel.app/api?username=Brajesh3&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Brajesh3's GitHub stats" /></a>
+<a href="https://www.github.com/Brajesh3"><img src="https://github-readme-stats.vercel.app/api?username=Brajesh3&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Brajesh3's GitHub stats" /></a>
 
-<a href="http://www.github.com/Brajesh3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh3&stroke=84cc16&background=000000&ring=a855f7&fire=a855f7&currStreakNum=84cc16&currStreakLabel=a855f7&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<a href="https://www.github.com/Brajesh3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh3&stroke=84cc16&background=000000&ring=a855f7&fire=a855f7&currStreakNum=84cc16&currStreakLabel=a855f7&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
 <a href="https://github.com/Brajesh3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh3&langs_count=10&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/Brajesh3/Simple_Calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Simple_Calculator&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Brajesh3/Browser_homepage" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Browser_homepage&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<div class="image-container">
+  <a href="https://github.com/Brajesh3/Simple_Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Simple_Calculator&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en"
+         alt="Simple Calculator GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/Brajesh3/Browser_homepage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Browser_homepage&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en"
+         alt="Browser Homepage GitHub stats"
+    />
+  </a>
+</div>
 
 ### Connect with Me
 
@@ -40,6 +53,6 @@ src="https://img.shields.io/github/followers/Brajesh3?logo=github&style=for-the-
 
 #### Profile Views
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23B800FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23B800FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://github.com/brajesh3)
 
 ### Jai Shree Ram
