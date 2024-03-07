@@ -28,7 +28,7 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 
 <a href="https://www.github.com/Brajesh3"><img src="https://github-readme-stats.vercel.app/api?username=Brajesh3&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Brajesh3's GitHub stats" /></a>
 
-<a href="https://www.github.com/Brajesh3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh3&stroke=84cc16&background=000000&ring=a855f7&fire=a855f7&currStreakNum=84cc16&currStreakLabel=a855f7&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<a href="https://www.github.com/Brajesh3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh3&stroke=84cc16&background=000000&ring=a855f7&fire=a855f7&currStreakNum=84cc16&currStreakLabel=a855f7&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" alt="Brajesh3's Github streak" /></a>
 
 <a href="https://github.com/Brajesh3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh3&langs_count=10&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
