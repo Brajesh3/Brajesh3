@@ -1,4 +1,6 @@
-Hi ![hand_guesture](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brajesh
+Hi ![Hello](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brajesh
+----------------------
+![Programmer's life](https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp)
 ===============================================================================================================================
 
 Web Developer & learner
@@ -15,6 +17,7 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
   />
 </a>
 
+--------------------------
 ### Skills & Tools
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -24,6 +27,7 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
+----------------------------
 ### My GitHub Stats
 
 <a href="https://www.github.com/Brajesh3"><img src="https://github-readme-stats.vercel.app/api?username=Brajesh3&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Brajesh3's GitHub stats" /></a>
@@ -32,8 +36,8 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 
 <a href="https://github.com/Brajesh3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh3&langs_count=10&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+-----------------------------
 ### Top Repositories
-
 <div class="image-container">
   <a href="https://github.com/Brajesh3/Simple_Calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Simple_Calculator&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en"
@@ -47,12 +51,14 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
   </a>
 </div>
 
+---------------------------
 ### Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brajesh-kumar-056b75277?trk=contact-info)
 
+------------------------------
 #### Profile Views
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23B800FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://github.com/brajesh3)
 
-### Jai Shree Ram
+---------------------------
+# Jai Shree Ram
+![Jai Shree Ram](https://i.giphy.com/0nl1a9rt1Ep2dIbQJD.webp)
