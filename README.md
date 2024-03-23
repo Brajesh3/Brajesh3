@@ -58,7 +58,8 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 ------------------------------
 #### Profile Views
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23B800FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://github.com/brajesh3)
-
+![Profile-Counter](https://profile-counter.glitch.me/brajesh3/count.svg)
 ---------------------------
 # Jai Shree Ram
 ![Jai Shree Ram](https://i.giphy.com/0nl1a9rt1Ep2dIbQJD.webp)
+
