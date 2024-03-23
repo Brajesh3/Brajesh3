@@ -1,10 +1,8 @@
-Hi ![Hello](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brajesh
-----------------------
+# Hi ![Hello](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brajesh
 ![Programmer's life](https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp)
-===============================================================================================================================
 
-Web Developer & learner
 -----------------------
+### Web Developer & learner
 
 I love open source. Learning and exploring in the realms of IT, networking, and civil engineering. Currently preparing for exams. Always curious about new technologies and open source.
 
@@ -57,8 +55,8 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 
 ------------------------------
 #### Profile Views
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23B800FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://github.com/brajesh3)
-![Profile-Counter](https://profile-counter.glitch.me/brajesh3/count.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23B800FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile%20views%20today%2Ftotal&edge_flat=false)](https://github.com/brajesh3)
+
 ---------------------------
 # Jai Shree Ram
 ![Jai Shree Ram](https://i.giphy.com/0nl1a9rt1Ep2dIbQJD.webp)
