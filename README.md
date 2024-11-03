@@ -9,52 +9,54 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 * 🧠 Currently delving into the depths of Web Development
 
 <a href="https://www.github.com/Brajesh3" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/Brajesh3?logo=github&style=for-the-badge&color=facc15&labelColor=000000"
+  <img src="https://img.shields.io/github/followers/Brajesh3?logo=github&style=for-the-badge&color=cba6f7&labelColor=1e1e2e"
     alt="Brajesh3's GitHub followers"
   />
 </a>
 
 --------------------------
 ## 🛠️ Skills & Tools
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Jekyll](https://img.shields.io/static/v1?style=for-the-badge&message=Jekyll&color=CC0000&logo=Jekyll&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=cba6f7&logo=Python&logoColor=1e1e2e&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=94e2d5&logo=CSS3&logoColor=1e1e2e&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=f5c2e7&logo=javascript&logoColor=1e1e2e&label=)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=f38ba8&logo=HTML5&logoColor=1e1e2e&label=)
+![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=cdd6f4&logo=Markdown&logoColor=1e1e2e&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=eba0ac&logo=Git&logoColor=1e1e2e&label=)
+![Jekyll](https://img.shields.io/static/v1?style=for-the-badge&message=Jekyll&color=cba6f7&logo=Jekyll&logoColor=1e1e2e&label=)
 
 ----------------------------
 ## 📊 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Brajesh3&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Brajesh3's GitHub stats" /></a>
-<a href="https://www.github.com/Brajesh3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh3&stroke=84cc16&background=000000&ring=a855f7&fire=a855f7&currStreakNum=84cc16&currStreakLabel=a855f7&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" alt="Brajesh3's Github streak" /></a>
-<a href="https://github.com/Brajesh3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh3&langs_count=10&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Brajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=brajesh3&show_icons=true&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<a href="https://www.github.com/Brajesh3">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh3&theme=catppuccin_mocha&hide_border=true" alt="Brajesh3's Github streak" />
+</a>
+<a href="https://github.com/Brajesh3" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh3&langs_count=10&theme=catppuccin_mocha&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
 
 -----------------------------
 ## 🏆 Top Repositories
 <div class="image-container">
   <a href="https://github.com/Brajesh3/Simple_Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Simple_Calculator&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en"
-         alt="Simple Calculator GitHub stats"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Simple_Calculator&theme=catppuccin_mocha&hide_border=true&locale=en" alt="Simple Calculator GitHub stats" />
   </a>
+</div>
+<div class="image-container">
   <a href="https://github.com/Brajesh3/Browser_homepage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Browser_homepage&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&locale=en"
-         alt="Browser Homepage GitHub stats"
-    />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Browser_homepage&theme=catppuccin_mocha&hide_border=true&locale=en" alt="Browser Homepage GitHub stats" />
+</a>
 </div>
 
 ---------------------------
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brajesh-kumar-056b75277)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram)](https://www.instagram.com/brajesh_kr3)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://www.twitter.com/Brajesh_kr3)
-[![Mastodon](https://img.shields.io/badge/Mastodon-Follow-2b90d9?style=for-the-badge&logo=mastodon)](https://mastodon.social/@Looter_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-cba6f7?style=for-the-badge&logo=linkedin&logoColor=1e1e2e)](https://www.linkedin.com/in/brajesh-kumar-056b75277)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-f5c2e7?style=for-the-badge&logo=instagram&logoColor=1e1e2e)](https://www.instagram.com/brajesh_kr3)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-a6e3a1?style=for-the-badge&logo=twitter&logoColor=1e1e2e)](https://www.twitter.com/Brajesh_kr3)
+[![Mastodon](https://img.shields.io/badge/Mastodon-Follow-94e2d5?style=for-the-badge&logo=mastodon&logoColor=1e1e2e)](https://mastodon.social/@Looter_)
 
 ------------------------------
 ## 👀 Profile Views
-[![Profile view today/total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23B800FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile%20views%20today%2Ftotal&edge_flat=false)](https://github.com/brajesh3)
+[![Profile view today/total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23cba6f7&title_bg=%231e1e2e&title=Profile%20views%20today%2Ftotal&edge_flat=false)](https://github.com/brajesh3)
 
 ----------------
 # 🚩 Jai Shree Ram
