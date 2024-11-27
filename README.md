@@ -24,6 +24,9 @@ I love **open source** and am passionate about **learning** and **exploring** in
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=cdd6f4&logo=Markdown&logoColor=1e1e2e&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=eba0ac&logo=Git&logoColor=1e1e2e&label=)
 ![Jekyll](https://img.shields.io/static/v1?style=for-the-badge&message=Jekyll&color=cba6f7&logo=Jekyll&logoColor=1e1e2e&label=)
+![Hugo](https://img.shields.io/static/v1?style=for-the-badge&message=Hugo&color=94e2d5&logo=Hugo&logoColor=1e1e2e&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=a6e3a1&logo=Linux&logoColor=1e1e2e&label=)
+![Bash](https://img.shields.io/static/v1?style=for-the-badge&message=Bash&color=f9e2af&logo=GNU+Bash&logoColor=1e1e2e&label=)
 
 ---
 
