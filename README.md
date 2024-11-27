@@ -55,7 +55,6 @@ I am passionate about **open source** and enjoy **learning** and **exploring** a
 ---
 
 ## 🌐 Connect with Me
-## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e)](https://www.linkedin.com/in/brajesh-kumar-056b75277)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-f38ba8?style=for-the-badge&logo=instagram&logoColor=1e1e2e)](https://www.instagram.com/brajesh_kr3)
 [![Twitter](https://img.shields.io/badge/X-Follow-a6e3a1?style=for-the-badge&logo=x&logoColor=1e1e2e)](https://www.twitter.com/Brajesh_kr3)
