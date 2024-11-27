@@ -4,12 +4,11 @@
 
 ---
 
-## 🌟 Web Developer & Learner
-I love **open source** and am passionate about **learning** and **exploring** in the realms of IT, networking, and civil engineering. Currently preparing for exams, I'm always curious about new technologies and the open-source community.
+## 🌟 Tech Enthusiast & Learner
+I am passionate about **open source** and enjoy **learning** and **exploring** across diverse fields like IT, networking, and civil engineering. With a keen interest in **programming** and **basic web technologies**, I continuously strive to enhance my skills and contribute to the open-source community.
 
-* 🌍 Proudly based in **India**
-* 🧠 Currently delving into the depths of **Web Development**
-
+* 🌍 Based in **India**
+* 💡 Fascinated by **open-source projects** and **technology trends**
 <a href="https://www.github.com/Brajesh3" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/Brajesh3?logo=github&style=for-the-badge&color=cba6f7&labelColor=1e1e2e" alt="Brajesh3's GitHub followers" />
 </a>
