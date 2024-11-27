@@ -30,7 +30,7 @@ I love **open source** and am passionate about **learning** and **exploring** in
 ## 📊 My GitHub Stats
 ![Brajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=brajesh3&show_icons=true&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <a href="https://www.github.com/Brajesh3">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh3&theme=catppuccin_mocha&hide_border=true" alt="Brajesh3's Github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brajesh3&theme=catppuccin_mocha&hide_border=true" alt="Brajesh3's Github streak" />
 </a>
 <a href="https://github.com/Brajesh3" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh3&langs_count=10&theme=catppuccin_mocha&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
