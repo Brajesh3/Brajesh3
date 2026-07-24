@@ -40,20 +40,6 @@ I am passionate about **open source** and enjoy **learning** and **exploring** a
 
 ---
 
-## 🏆 Top Repositories
-<div class="image-container">
-  <a href="https://github.com/Brajesh3/Simple_Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Simple_Calculator&theme=catppuccin_mocha&hide_border=true&locale=en" alt="Simple Calculator GitHub stats" />
-  </a>
-</div>
-<div class="image-container">
-  <a href="https://github.com/Brajesh3/Browser_homepage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh3&repo=Browser_homepage&theme=catppuccin_mocha&hide_border=true&locale=en" alt="Browser Homepage GitHub stats" />
-  </a>
-</div>
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e)](https://www.linkedin.com/in/brajesh-kumar-056b75277)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-f38ba8?style=for-the-badge&logo=instagram&logoColor=1e1e2e)](https://www.instagram.com/brajesh_kr3)
