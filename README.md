@@ -64,8 +64,3 @@ I am passionate about **open source** and enjoy **learning** and **exploring** a
 
 ## 👀 Profile Views
 [![Profile view today/total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23cba6f7&title_bg=%231e1e2e&title=Profile%20views%20today%2Ftotal&edge_flat=false)](https://github.com/brajesh3)
-
----
-
-# 🚩 Jai Shree Ram
-![Jai Shree Ram](https://i.giphy.com/0nl1a9rt1Ep2dIbQJD.webp)
