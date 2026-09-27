@@ -15,28 +15,44 @@ I am passionate about **open source** and enjoy **learning** and **exploring** a
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Languages & Core Tools
+
+<!-- Languages -->
+![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=fab387&logo=Rust&logoColor=1e1e2e&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=cba6f7&logo=Python&logoColor=1e1e2e&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=94e2d5&logo=CSS3&logoColor=1e1e2e&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=f5c2e7&logo=javascript&logoColor=1e1e2e&label=)
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=f38ba8&logo=HTML5&logoColor=1e1e2e&label=)
-![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=cdd6f4&logo=Markdown&logoColor=1e1e2e&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=eba0ac&logo=Git&logoColor=1e1e2e&label=)
-![Jekyll](https://img.shields.io/static/v1?style=for-the-badge&message=Jekyll&color=cba6f7&logo=Jekyll&logoColor=1e1e2e&label=)
-![Hugo](https://img.shields.io/static/v1?style=for-the-badge&message=Hugo&color=94e2d5&logo=Hugo&logoColor=1e1e2e&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=a6e3a1&logo=Linux&logoColor=1e1e2e&label=)
+![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=89b4fa&logo=Lua&logoColor=1e1e2e&label=)
 ![Bash](https://img.shields.io/static/v1?style=for-the-badge&message=Bash&color=f9e2af&logo=GNU+Bash&logoColor=1e1e2e&label=)
+
+<!-- Environment & Editor -->
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=a6e3a1&logo=Linux&logoColor=1e1e2e&label=)
+![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=74c7ec&logo=Windows&logoColor=1e1e2e&label=)
+![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=94e2d5&logo=Neovim&logoColor=1e1e2e&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=eba0ac&logo=Git&logoColor=1e1e2e&label=)
+![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub%20Actions&color=89dceb&logo=githubactions&logoColor=1e1e2e&label=)
 
 ---
 
+
 ## 📊 My GitHub Stats
-![Brajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=brajesh3&show_icons=true&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<a href="https://www.github.com/Brajesh3">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brajesh3&theme=catppuccin_mocha&hide_border=true" alt="Brajesh3's Github streak" />
-</a>
-<a href="https://github.com/Brajesh3" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh3&langs_count=10&theme=catppuccin_mocha&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+
+<div align="center">
+  <!-- General Stats -->
+  <a href="https://github.com/Brajesh3">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Brajesh3&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="Brajesh's GitHub stats" height="180" />
+  </a>
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/Brajesh3">
+    <img src="https://streak-stats.demolab.com/?user=Brajesh3&theme=catppuccin_mocha&hide_border=true" alt="Brajesh3's Github streak" height="180" />
+  </a>
+
+  <br />
+
+  <!-- Top Languages -->
+  <a href="https://github.com/Brajesh3">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Brajesh3&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
@@ -49,4 +65,6 @@ I am passionate about **open source** and enjoy **learning** and **exploring** a
 ---
 
 ## 👀 Profile Views
-[![Profile view today/total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23cba6f7&title_bg=%231e1e2e&title=Profile%20views%20today%2Ftotal&edge_flat=false)](https://github.com/brajesh3)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Brajesh3&color=cba6f7&style=flat-square&label=Profile+Views)](https://github.com/Brajesh3)
+
