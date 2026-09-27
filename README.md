@@ -57,14 +57,15 @@ I am passionate about **open source** and enjoy **learning** and **exploring** a
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e)](https://www.linkedin.com/in/brajesh-kumar-056b75277)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-f38ba8?style=for-the-badge&logo=instagram&logoColor=1e1e2e)](https://www.instagram.com/brajesh_kr3)
-[![Twitter](https://img.shields.io/badge/X-Follow-a6e3a1?style=for-the-badge&logo=x&logoColor=1e1e2e)](https://www.twitter.com/Brajesh_kr3)
-[![Mastodon](https://img.shields.io/badge/Mastodon-Follow-94e2d5?style=for-the-badge&logo=mastodon&logoColor=1e1e2e)](https://mastodon.social/@Looter_)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=1e1e2e)](https://www.linkedin.com/in/brajesh-kumar-056b75277)
+[![X](https://img.shields.io/badge/X-Follow-cdd6f4?style=for-the-badge&logo=x&logoColor=cdd6f4&labelColor=1e1e2e)](https://twitter.com/Brajesh_kr3)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-f5c2e7?style=for-the-badge&logo=instagram&logoColor=cdd6f4&labelColor=1e1e2e)](https://www.instagram.com/brajesh_kr3)
+[![Mastodon](https://img.shields.io/badge/Mastodon-Follow-b4befe?style=for-the-badge&logo=mastodon&logoColor=cdd6f4&labelColor=1e1e2e)](https://mastodon.social/@Looter_)
 
 ---
 
 ## 👀 Profile Views
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Brajesh3&color=cba6f7&style=flat-square&label=Profile+Views)](https://github.com/Brajesh3)
+[![Profile Views](https://komarev.com/ghpvc/?username=Brajesh3&color=cba6f7&label_color=1e1e2e&style=for-the-badge&label=Profile+Views)](https://github.com/Brajesh3)
 
