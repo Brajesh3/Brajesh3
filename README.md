@@ -4,13 +4,19 @@
 
 ---
 
-## 🌟 Tech Enthusiast & Learner
-I am passionate about **open source** and enjoy **learning** and **exploring** across diverse fields like IT, networking, and civil engineering. With a keen interest in **programming** and **basic web technologies**, I continuously strive to enhance my skills and contribute to the open-source community.
+## 🌟 About Me
+
+I am an engineering student with a strong focus on **systems programming**, **networking**, and **Linux tooling**. I enjoy building fast, reliable tools in **Rust**, fine-tuning terminal workflows, and contributing to open-source software.
 
 * 🌍 Based in **India**
-* 💡 Fascinated by **open-source projects** and **technology trends**
-<a href="https://www.github.com/Brajesh3" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/Brajesh3?logo=github&style=for-the-badge&color=cba6f7&labelColor=1e1e2e" alt="Brajesh3's GitHub followers" />
+* 🦀 Currently deep-diving into **Rust** & systems tooling
+* 🐧 Tinkering with **Linux environments**, Neovim, and shell customization
+* 📡 Interested in **peer-to-peer protocols**, networking, and applied engineering
+
+<br/>
+
+<a href="https://github.com/Brajesh3" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/Brajesh3?logo=github&logoColor=cdd6f4&style=for-the-badge&color=cba6f7&labelColor=1e1e2e" alt="Brajesh3's GitHub followers" />
 </a>
 
 ---
